@@ -1,4 +1,4 @@
-**Hello ** (https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif)
+**Hello 👋** 
 
 
 
