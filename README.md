@@ -17,6 +17,9 @@
  
 &nbsp; <a href="https://www.instagram.com/manan.856/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/manan-poddar/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.geeksforgeeks.org/user/mananplvnw/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/100/GeeksforGeeks.png"  width="50" /></a>
+&nbsp; <a href="https://leetcode.com/u/mananpoddar307/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"  width="50" /></a>
 &nbsp; <a href="mailto:mananpoddar307@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+
 </p>
 
